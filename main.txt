@@ -1,0 +1,16 @@
+List of text:
+Eevee
+Pikachu
+Genger
+protected
+incne
+float
+friend
+Umbreon
+Flygon
+Dragonite
+Pizza
+sizeof
+namespace
+unsigned
+
